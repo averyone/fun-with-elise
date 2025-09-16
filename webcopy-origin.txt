@@ -1,0 +1,60 @@
+Uri: https://www.elisekadison.com/
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\index.htm
+Content Type: text/html
+
+Uri: https://www.elisekadison.com/assignments.html
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\assignments.html
+Content Type: text/html
+
+Uri: https://www.elisekadison.com/elise.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\elise.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/hallmakeup.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\hallmakeup.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/index.html
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\index.html
+Content Type: text/html
+
+Uri: https://www.elisekadison.com/kurtis.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\kurtis.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/makeup.html
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\makeup.html
+Content Type: text/html
+
+Uri: https://www.elisekadison.com/makeup.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\makeup.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/professional.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\professional.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/rainbowmakeup.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\rainbowmakeup.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/travel.html
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\travel.html
+Content Type: text/html
+
+Uri: https://www.elisekadison.com/travel.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\travel.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/travel2.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\travel2.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/travel3.jpeg
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\travel3.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.elisekadison.com/video.html
+File Name: C:\Downloaded Web Sites\www.elisekadison.com\video.html
+Content Type: text/html
+
